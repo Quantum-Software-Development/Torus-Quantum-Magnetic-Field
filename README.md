@@ -21,9 +21,10 @@
 #
 
 <p align="center">
-<img src=https://user-images.githubusercontent.com/113218619/235283848-cf68e5d9-aebc-4314-bf7c-2a184b1897c5.gif"/>
+<img src="https://user-images.githubusercontent.com/113218619/235283848-cf68e5d9-aebc-4314-bf7c-2a184b1897c5.gif"/>
 <p/>
 
 #
 
-![9-Toris   HB](https://user-images.githubusercontent.com/113218619/235283904-0b9272c6-d55b-4aab-8d52-ce59827fad31.jpeg)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/113218619/235283904-0b9272c6-d55b-4aab-8d52-ce59827fad31.jpeg />
