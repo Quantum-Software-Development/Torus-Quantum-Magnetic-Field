@@ -8,7 +8,9 @@
 
 #
 
-![1a-Torus-spiral](https://user-images.githubusercontent.com/113218619/235283776-ff56fa61-2a9c-47e0-bbcf-0e1941e3e9fc.gif)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/113218619/235283776-ff56fa61-2a9c-47e0-bbcf-0e1941e3e9fc.gif"/>
+<p/>
 
 #
 
@@ -16,7 +18,9 @@
 
 #
 
-![7-Toroidal Flow](https://user-images.githubusercontent.com/113218619/235283848-cf68e5d9-aebc-4314-bf7c-2a184b1897c5.gif)
+<p align="center">
+<img src=https://user-images.githubusercontent.com/113218619/235283848-cf68e5d9-aebc-4314-bf7c-2a184b1897c5.gif"/>
+<p/>
 
 #
 
