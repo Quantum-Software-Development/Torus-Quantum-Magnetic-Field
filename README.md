@@ -15,10 +15,9 @@
 #
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/113218619/235283809-753a6660-ae6e-4fe8-9609-bfd6c221a13d.gif"/>
+<img src="https://user-images.githubusercontent.com/113218619/235284218-6fa76a2f-d675-4a23-8f9e-5ef729e629ef.jpeg"/>
 <p/>
 
-#
 
 
 
