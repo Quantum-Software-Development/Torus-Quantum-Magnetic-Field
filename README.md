@@ -14,7 +14,9 @@
 
 #
 
-![2-horntorusanimation](https://user-images.githubusercontent.com/113218619/235283809-753a6660-ae6e-4fe8-9609-bfd6c221a13d.gif)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/113218619/235283809-753a6660-ae6e-4fe8-9609-bfd6c221a13d.gif"/>
+<p/>
 
 #
 
