@@ -20,9 +20,7 @@
 
 #
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/113218619/235283848-cf68e5d9-aebc-4314-bf7c-2a184b1897c5.gif"/>
-<p/>
+
 
 #
 
