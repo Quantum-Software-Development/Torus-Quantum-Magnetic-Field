@@ -2,7 +2,10 @@
 
 # <p align="center">  Quantum ⚛︎ 4 All <p/>
 
+## Quantum Physics has Given us the Theory of Entanglement
+
 <p align="center"> ﹡ Dark to Light ﹡ <p/>
+
 
 
 
