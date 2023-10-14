@@ -1,6 +1,6 @@
 <br>
 
-# <p align="center">  Torus Quantum Magnetic Field <p/>
+# <p align="center">  Torus - Quantum Magnetic Field <p/>
 
 
 <p align="center"> ﹡ Dark to Light ﹡ <p/>
