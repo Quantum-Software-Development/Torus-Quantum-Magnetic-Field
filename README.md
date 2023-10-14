@@ -20,6 +20,11 @@
 
 #
 
+
+
+
+#
+
 <p align="center"> ﹡ Torus - Human Body Magnetic Quantum Field ﹡ <p/>
 
 <p align="center">
