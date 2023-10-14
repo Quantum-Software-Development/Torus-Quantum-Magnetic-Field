@@ -21,19 +21,19 @@
 #
 <br>
 
-![Earth-Magnetic-Field](https://github.com/Quantum-Software-Development/README/assets/113218619/e78a928d-1756-4c96-bd38-da05b89743bf)
-
-<br>
-
-#
-
 <p align="center"> ﹡ Torus - Human Body Magnetic Quantum Field ﹡ <p/>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/113218619/235284218-6fa76a2f-d675-4a23-8f9e-5ef729e629ef.jpeg"/>
 <p/>
 
+<br>
 
+#
+
+
+
+![Earth-Magnetic-Field](https://github.com/Quantum-Software-Development/README/assets/113218619/e78a928d-1756-4c96-bd38-da05b89743bf)
 
 
 
