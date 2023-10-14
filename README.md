@@ -1,8 +1,7 @@
 <br>
 
-# <p align="center">  Quantum ⚛︎ 4 All <p/>
+# <p align="center">  Torus Quantum Magnetic Field <p/>
 
-## Quantum Physics has Given us the Theory of Entanglement
 
 <p align="center"> ﹡ Dark to Light ﹡ <p/>
 
