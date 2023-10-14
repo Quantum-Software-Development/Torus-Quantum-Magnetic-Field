@@ -1,7 +1,7 @@
 <br>
 
 # <p align="center">  Torus - Quantum Magnetic Field<br>
-
+<br>
 
 <p align="center"> ﹡ Torus - Quantum Magnetic Field ﹡<br>
 <br>
