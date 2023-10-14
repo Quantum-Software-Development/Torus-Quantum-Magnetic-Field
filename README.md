@@ -20,7 +20,7 @@
 
 #
 
-<p align="center"> ﹡ Torus - Human Body Magnetic Field ﹡ <p/>
+<p align="center"> ﹡ Torus - Human Body Magnetic Quantum Field ﹡ <p/>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/113218619/235284218-6fa76a2f-d675-4a23-8f9e-5ef729e629ef.jpeg"/>
