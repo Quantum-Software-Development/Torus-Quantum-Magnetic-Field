@@ -14,7 +14,7 @@
 
 #
 
-<p align="center"> ﹡ Torus - Magnetic Quantum Field ﹡ <p/>
+<p align="center"> ﹡ Torus - Body Magnetic Field ﹡ <p/>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/113218619/235283776-ff56fa61-2a9c-47e0-bbcf-0e1941e3e9fc.gif"/>
