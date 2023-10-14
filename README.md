@@ -11,12 +11,14 @@
 <br>
 
 #
+<br>
 
 <p align="center"> ﹡ Torus - Quantum Flow ﹡ 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/113218619/235283776-ff56fa61-2a9c-47e0-bbcf-0e1941e3e9fc.gif"/>
 <p/>
+<br>
 
 #
 <br>
@@ -30,8 +32,9 @@
 <br>
 
 #
+<br>
 
-
+Torus - Earth Magnetic Field
 
 ![Earth-Magnetic-Field](https://github.com/Quantum-Software-Development/README/assets/113218619/e78a928d-1756-4c96-bd38-da05b89743bf)
 
