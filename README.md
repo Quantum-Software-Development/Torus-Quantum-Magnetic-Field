@@ -3,7 +3,8 @@
 # <p align="center">  Torus - Quantum Magnetic Field<br>
 <br><br>
 
-
+## <p align="center"> ﹡ Creation and dissolution of a torus energy field <br>
+ 
 https://github.com/Quantum-Software-Development/README/assets/113218619/7d1a572d-f5b3-41c6-8e35-576ea7cd14a0
 
 <br><br>
