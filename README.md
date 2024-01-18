@@ -18,6 +18,8 @@ https://github.com/Quantum-Software-Development/README/assets/113218619/7d1a572d
 <img src="https://user-images.githubusercontent.com/113218619/234465247-f663de8d-04ec-4310-96ec-653ba01e7614.gif" />
 <br>
 
+#
+
 <br>
 
 ### <p align="center"> ﹡ Torus - Quantum Flow ﹡<br> 
@@ -28,6 +30,7 @@ https://github.com/Quantum-Software-Development/README/assets/113218619/7d1a572d
 <br>
 
 #
+
 <br>
 
 ### <p align="center"> ﹡ Torus - Human Body Magnetic Quantum Field ﹡<br>
@@ -38,6 +41,7 @@ https://github.com/Quantum-Software-Development/README/assets/113218619/7d1a572d
 <br>
 
 #
+
 <br>
 
 ### <p align="center"> ﹡Torus - Earth Magnetic Field ﹡<br>
