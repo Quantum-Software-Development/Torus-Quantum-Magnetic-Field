@@ -48,10 +48,12 @@ https://github.com/Quantum-Software-Development/README/assets/113218619/7d1a572d
 <br>
 
  <p align="center">
-<img src="https://github.com/Quantum-Software-Development/README/assets/113218619/e78a928d-1756-4c96-bd38-da05b89743bf"
+<img src="https://github.com/Quantum-Software-Development/README/assets/113218619/e78a928d-1756-4c96-bd38-da05b89743bf"/>
 <br>
 
 #
+
+<br>
 
  ###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the MIT license.](https://github.com/Quantum-Software-Development/README/blob/161b677c5a791f0ca8219b8e934f1cf353d5b85d/LICENSE)
 
