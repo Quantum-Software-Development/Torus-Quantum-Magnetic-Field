@@ -1,7 +1,7 @@
 <br>
 
 # <p align="center">  Torus - Quantum Magnetic Field<br>
-<br><br>
+<br>
 
 ## <p align="center"> ﹡ Creation and dissolution of a torus energy field <br>
 <br><br>
