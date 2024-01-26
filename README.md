@@ -23,10 +23,10 @@ https://github.com/Quantum-Software-Development/README/assets/113218619/7d1a572d
 <br>
 
 <!-- ### <p align="center"> ﹡ Torus - Quantum Flow ﹡<br>   -->
-### <p align="center"> ﹡ Torus - Quantum Flow ﹡<br> 
+### <p align="center"> ﹡ Torus -  Divine Proportion ﹡<br> 
 <br>
 
-![Torus - Divine Proportion]()
+![Torus -]()
 
 <p align="center">
 <img src="https://github.com/Quantum-Software-Development/README/assets/113218619/53571f74-ee18-4d9b-b31e-e2c2fbe7d8b2"/>
