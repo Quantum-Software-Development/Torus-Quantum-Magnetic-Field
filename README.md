@@ -1,6 +1,10 @@
 <br>
 
 # <p align="center"> 𑁍 Torus - Quantum Magnetic Field<br>
+
+### Torus Math 
+
+
 <br>
 
 ### <p align="center"> ﹡𐩔⧖ Creation and dissolution of a torus energy field ﹡ <br>
