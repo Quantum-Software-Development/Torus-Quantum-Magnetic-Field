@@ -11,19 +11,6 @@ y(\theta, \phi) &= (R + r \cos \theta) \sin \phi \\
 z(\theta, \phi) &= r \sin \theta
 \end{align*}$$
 
-
-#
-
-
-$begin{align*}
-x(\theta, \phi) &= (R + r \cos \theta) \cos \phi \\
-y(\theta, \phi) &= (R + r \cos \theta) \sin \phi \\
-z(\theta, \phi) &= r \sin \theta
-\end{align*}$
-
-
-
-
 #
 
  begin{align*}
