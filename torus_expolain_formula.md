@@ -6,13 +6,15 @@ The hexadecimal code for GitHub blue is #0366d6. To apply this color in a LaTeX 
 
 <br>
 
+----
+
  begin{align*}
 x(\theta, \phi) &= (R + r \cos \theta) \cos \phi \\
 y(\theta, \phi) &= (R + r \cos \theta) \sin \phi \\
 z(\theta, \phi) &= r \sin \theta
 \end{align*}
 
-
+-----
 
 
 $$\documentclass{article}
