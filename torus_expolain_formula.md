@@ -4,5 +4,21 @@ In this formula, ( R ) represents the radius from the center of the torus tube t
 The hexadecimal code for GitHub blue is #0366d6. To apply this color in a LaTeX formula, you can use the xcolor package in LaTeX. Here is an example of how you can define the color and use it in the torus formula:
 -->
 ""
+\documentclass{article}
+\usepackage{xcolor} % Package for colors
 
+\definecolor{githubblue}{HTML}{0366d6} % Defining the GitHub blue color
+
+\begin{document}
+
+\[
+\color{githubblue}
+\begin{align*}
+x(u, v) &= (R + r \cos v) \cos u \\
+y(u, v) &= (R + r \cos v) \sin u \\
+z(u, v) &= r \sin v
+\end{align*}
+\]
+
+\end{document}
 
