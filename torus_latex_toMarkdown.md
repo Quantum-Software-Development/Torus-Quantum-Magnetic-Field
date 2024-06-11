@@ -25,7 +25,9 @@
 \end{document}
 
 
-'''Remember to replace `url_of_the_image_here` with the URL of the torus image you generated and uploaded to GitHub or another image hosting service. This way, you'll have a well-formatted README.md file that includes both the LaTeX code and the visualization of the torus.
+'''Remember to replace `url_of_the_image_here` with the URL of the torus image
+you generated and uploaded to GitHub or another image hosting service.
+This way, you'll have a well-formatted README.md file that includes both the LaTeX code and the visualization of the torus.
 
 
 
