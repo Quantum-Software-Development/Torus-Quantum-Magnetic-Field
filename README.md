@@ -36,7 +36,7 @@ https://github.com/Quantum-Software-Development/README/assets/113218619/7d1a572d
 <img src="https://github.com/Quantum-Software-Development/README/assets/113218619/a2b182d0-3c15-457b-b6b9-e01b2613d843"/>
 <br>
 
-![Divine_Proportion_Torus](https://github.com/Quantum-Software-Development/README/assets/113218619/38e289a9-28f7-4fd7-b6db-a25400bdc7be)
+
 
 
 #
