@@ -27,7 +27,7 @@ https://github.com/Quantum-Software-Development/README/assets/113218619/7d1a572d
 
 <br>
 
-### <p align="center"> ﹡ Torus - [Da Vinci's Divine Proportion]()  ﹡<br> 
+### <p align="center"> ﹡ Torus - [Da Vinci's Divine Proportion](https://github.com/Quantum-Software-Development/README/blob/25d5b70b59da9acd45e77cb6d983417cf3fc61f2/daVinci_mathematically.md)  ﹡<br> 
 <br>
 
 
