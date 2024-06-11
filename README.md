@@ -2,7 +2,7 @@
 
 # <p align="center"> 𑁍 Torus - Quantum Magnetic Field<br>
 
-### <p align="center"> Torus Math 
+### <p align="center"> Torus Mathematically Speaking:
 
 
 <br>
