@@ -5,6 +5,8 @@
 ### <p align="center"> Torus Mathematically Speaking:
 
 
+#
+
 <br>
 
 ### <p align="center"> ﹡𐩔⧖ Creation and dissolution of a torus energy field ﹡ <br>
