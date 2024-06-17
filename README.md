@@ -4,6 +4,8 @@
 
 ### <p align="center"> [Torus Mathematically Speaking:](https://github.com/Quantum-Software-Development/README/blob/de863aea73ea56558093652acb707ef038f17217/torus_pgfplots_package.tex)
 
+<br>
+
 $$\begin{align*}
 x(\theta, \phi) &= (R + r \cos \theta) \cos \phi \\
 y(\theta, \phi) &= (R + r \cos \theta) \sin \phi \\
