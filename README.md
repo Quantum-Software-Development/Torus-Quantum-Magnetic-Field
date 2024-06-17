@@ -2,7 +2,7 @@
 
 # <p align="center"> 𑁍 Torus - Quantum Magnetic Field<br>
 
-### <p align="center"> [Torus Mathematically Speaking:](https://github.com/Quantum-Software-Development/README/blob/de863aea73ea56558093652acb707ef038f17217/torus_pgfplots_package.tex)
+### <p align="center"> Torus [Mathematically Speaking:](https://github.com/Quantum-Software-Development/README/blob/de863aea73ea56558093652acb707ef038f17217/torus_pgfplots_package.tex)
 
 <br>
 
