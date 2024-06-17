@@ -6,7 +6,7 @@
 
 <br>
 
-$$\color{Green} \large \begin{align*}
+$$\color{lightblue} \large \begin{align*}
 x(\theta, \phi) &= (R + r \cos \theta) \cos \phi \\
 y(\theta, \phi) &= (R + r \cos \theta) \sin \phi \\
 z(\theta, \phi) &= r \sin \theta
