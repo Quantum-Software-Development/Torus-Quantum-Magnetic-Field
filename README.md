@@ -17,7 +17,7 @@ z(\theta, \phi) &= r \sin \theta
 
 These formulas represents the parametric equations of a [**Torus**]() 
 
-<br>
+#
 
 ### <p align="center"> ﹡𐩔⧖ Creation and dissolution of a torus energy field ﹡ <br>
 <br>
