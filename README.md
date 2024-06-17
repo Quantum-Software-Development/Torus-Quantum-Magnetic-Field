@@ -15,7 +15,7 @@ z(\theta, \phi) &= r \sin \theta
 
 <br>
 
-These formulas represents the parametric equations of a **Torus** 
+These formulas represents the parametric equations of a [**Torus**]() 
 
 <br>
 
