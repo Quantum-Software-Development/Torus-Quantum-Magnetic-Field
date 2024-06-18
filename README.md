@@ -23,7 +23,6 @@ z(\theta, \phi) &= r \sin \theta
 
 <br>
 
-These formulas represents the parametric equations of a [**Torus**](https://github.com/Quantum-Software-Development/README/assets/113218619/74952dc5-d10d-4ba6-8400-1f5b137955ee), which is a doughnut-shaped surface in three-dimensional space.  The parameters ( theta) and (phi) are angles that, when varied, trace the surface of the torus. (R) is the radius from the center of the torus' tube to the center of the torus, and (r) is the radius of the tube itself
 
 #
 
