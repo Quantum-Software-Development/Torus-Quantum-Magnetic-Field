@@ -80,6 +80,37 @@ Included in this repository is a video file `Creation.and.dissolution.of.a.torus
 
 <br>
 
+## Torus Code
+
+This repository also includes code that demonstrates the generation of a Torus in a programming environment. The code is a practical representation of the parametric equations of the Torus and allows users to visualize and interact with the toroidal shape.
+
+### Python Code Example to Generate a Torus
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+
+# Defining the parametric equations of the Torus
+theta = np.linspace(0, 2 * np.pi, 100)
+phi = np.linspace(0, 2 * np.pi, 100)
+theta, phi = np.meshgrid(theta, phi)
+R, r = 2, 1  # Set the major radius (R) and minor radius (r)
+X = (R + r * np.cos(phi)) * np.cos(theta)
+Y = (R + r * np.cos(phi)) * np.sin(theta)
+Z = r * np.sin(phi)
+
+# Creating the figure and 3D axis
+fig = plt.figure()
+ax = fig.add_subplot(111, projection='3d')
+
+# Plotting the Torus
+ax.plot_surface(X, Y, Z, color='b', rstride=5, cstride=5, alpha=0.7)
+
+# Displaying the graph
+plt.show()
+
+
 https://github.com/Quantum-Software-Development/README/assets/113218619/7d1a572d-f5b3-41c6-8e35-576ea7cd14a0
 
 
