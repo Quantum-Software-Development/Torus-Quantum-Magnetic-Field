@@ -9,6 +9,9 @@ Welcome to the exploration of the Torus and its applications in quantum magnetic
 
 ## Torus [Mathematically Speaking:](https://github.com/Quantum-Software-Development/README/blob/de863aea73ea56558093652acb707ef038f17217/torus_pgfplots_package.tex)
 
+The torus is a doughnut-shaped surface in three-dimensional space, described by the following parametric equations:
+
+
 <br>
 
 $$\color{lightblue} \large \begin{align*}
