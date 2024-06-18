@@ -50,6 +50,8 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 
 - **Human Body Magnetic Quantum Field**: Explore the concept of the human body's magnetic field and its potential toroidal structure.
 
+  https://github.com/Quantum-Software-Development/Torus-Quantum-Magnetic-Field/assets/113218619/18f64dbe-3847-4b0e-bb13-259d5ff0d0fb
+
   
 
  
@@ -78,7 +80,7 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 
 
 
-
+<!--
 
 ### <p align="center"> ﹡𐩔⧖ Creation and dissolution of a torus energy field ﹡ <br>
 <br>
@@ -126,7 +128,7 @@ https://github.com/Quantum-Software-Development/README/assets/113218619/7d1a572d
  <p align="center">
 <img src="https://github.com/Quantum-Software-Development/README/assets/113218619/e78a928d-1756-4c96-bd38-da05b89743bf"/>
 <br>
-
+-->
 #
 
 <br>
