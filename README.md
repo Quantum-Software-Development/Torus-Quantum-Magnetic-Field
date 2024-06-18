@@ -34,7 +34,8 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 
 ## Additional Topics
 
-- **Da Vinci's Divine Proportion**: Investigate the torus in the context of Leonardo da Vinci's studies 
+- **Da Vinci's Divine Proportion**: Investigate the torus in the context of Leonardo da Vinci's studies on divine proportions and its implications in art and science.
+  
 
 
 
