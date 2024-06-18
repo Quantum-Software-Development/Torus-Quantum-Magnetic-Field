@@ -176,10 +176,13 @@ These lines calculate the 3D coordinates (X, Y, Z) of the torus using the parame
 
  <br>
 
+```python
+# Plotting the Torus
+ax.plot_surface(X, Y, Z, color='b', rstride=5, cstride=5, alpha=0.7)
+```
 
 
-
-
+The plot_surface function is used to plot the surface of the torus. The color parameter sets the color of the torus, rstride and cstride set the stride used to sample the input data to reduce the number of plotted points, and alpha sets the transparency level.
 
 
 
