@@ -138,7 +138,16 @@ import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 ```
+
+  <br>
+
+These lines import the necessary libraries:
+
+- numpy for numerical operations,
   
+- matplotlib.pyplot for plotting graphs,
+  
+- mpl_toolkits.mplot3d for 3D plotting capabilities.
 
  
 
