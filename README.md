@@ -20,8 +20,12 @@ y(\theta, \phi) &= (R + r \cos \theta) \sin \phi \\
 z(\theta, \phi) &= r \sin \theta
 \end{align*}$$
 
-
 <br>
+
+where:
+
+- \( \theta \) and \( \phi \) are angles that trace the surface of the torus,
+
 
 
 #
