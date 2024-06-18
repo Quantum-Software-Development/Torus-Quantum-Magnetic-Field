@@ -50,7 +50,6 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 
 - **Human Body Magnetic Quantum Field**: Explore the concept of the human body's magnetic field and its potential toroidal structure.
 
-  https://github.com/Quantum-Software-Development/Torus-Quantum-Magnetic-Field/assets/113218619/18f64dbe-3847-4b0e-bb13-259d5ff0d0fb
 
 
 
@@ -63,7 +62,7 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 
 <br><br>
 
-  - **Earth Magnetic Field**: ds.
+  - **Earth Magnetic Field**: Examine the Earth's magnetic field, which can also be modeled as a torus, and its significance in protecting our planet from solar winds.
 
 
   
