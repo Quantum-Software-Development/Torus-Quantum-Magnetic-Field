@@ -82,7 +82,11 @@ Included in this repository is a video file `Creation.and.dissolution.of.a.torus
 
 ## Torus Code
 
+<br>
+
 This repository also includes code that demonstrates the generation of a Torus in a programming environment. The code is a practical representation of the parametric equations of the Torus and allows users to visualize and interact with the toroidal shape.
+
+<br>
 
 ## Python Code Example to Generate a Torus
 
@@ -111,6 +115,7 @@ ax.plot_surface(X, Y, Z, color='b', rstride=5, cstride=5, alpha=0.7)
 plt.show()
 ```
 
+<br>
 
 ## Code Explanation
 
