@@ -149,6 +149,17 @@ These lines import the necessary libraries:
   
 - mpl_toolkits.mplot3d for 3D plotting capabilities.
 
+
+  <br>
+
+```python
+# Defining the parametric equations of the Torus
+theta = np.linspace(0, 2 * np.pi, 100)
+phi = np.linspace(0, 2 * np.pi, 100)
+theta, phi = np.meshgrid(theta, phi)
+R, r = 2, 1  # Set the major radius (R) and minor radius (r)
+```
+
  
 
 
