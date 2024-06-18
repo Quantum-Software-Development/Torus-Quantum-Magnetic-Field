@@ -30,7 +30,8 @@ where:
 
 ## Quantum Magnetic Field
 
-The torus is a fundamental shape in the study of quantum magnetic fields. T
+The torus is a fundamental shape in the study of quantum magnetic fields. This section delves into the creation and dissolution of a torus energy field, 
+
 
 
 
