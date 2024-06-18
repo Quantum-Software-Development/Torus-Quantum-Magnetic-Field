@@ -26,6 +26,7 @@ where:
 
 - $\( \theta \)$ and \( \phi \) are angles that trace the surface of the torus,
 - $\( R \)$ is the distance from the center of the torus' tube to the center of the torus,
+- - \( r \) is the radius of the tube itself.
 
 
 
