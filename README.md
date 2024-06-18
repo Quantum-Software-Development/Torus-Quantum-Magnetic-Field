@@ -95,7 +95,7 @@ from mpl_toolkits.mplot3d import Axes3D
 theta = np.linspace(0, 2 * np.pi, 100)
 phi = np.linspace(0, 2 * np.pi, 100)
 theta, phi = np.meshgrid(theta, phi)
-R, r = 2, 1  # Set the major radius (R) and minor radius (r)
+R, r = 2, 1  # Set the **major radius (R)** and **minor radius (r)**
 X = (R + r * np.cos(phi)) * np.cos(theta)
 Y = (R + r * np.cos(phi)) * np.sin(theta)
 Z = r * np.sin(phi)
