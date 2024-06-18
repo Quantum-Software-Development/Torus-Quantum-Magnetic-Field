@@ -36,8 +36,7 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 
 - **Da Vinci's Divine Proportion**: Investigate the torus in the context of Leonardo da Vinci's studies on divine proportions and its implications in art and science.
   
-### <p align="center"> ﹡ Torus - [Da Vinci's Divine Proportion](https://github.com/Quantum-Software-Development/README/blob/25d5b70b59da9acd45e77cb6d983417cf3fc61f2/daVinci_mathematically.md)  ﹡<br> 
-<br>
+
 
 
 
@@ -88,12 +87,6 @@ https://github.com/Quantum-Software-Development/README/assets/113218619/7d1a572d
 
 
 
-<p align="center">
-<img src="https://github.com/Quantum-Software-Development/README/assets/113218619/38e289a9-28f7-4fd7-b6db-a25400bdc7be"/>
-<br>
-
- <p align="center">
-<img src="https://github.com/Quantum-Software-Development/README/assets/113218619/a9a31377-6456-43c8-93d0-45c07fb2e655" />
 
 
 #
