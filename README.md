@@ -24,7 +24,7 @@ z(\theta, \phi) &= r \sin \theta
 
 where:
 
-- \( \theta \) and \( \phi \) are angles that trace the surface of the torus,
+- $\( \theta \)$ and \( \phi \) are angles that trace the surface of the torus,
 - - \( R \) is the distance from the center of the torus' tube to the center of the torus,
 
 
