@@ -109,9 +109,10 @@ ax.plot_surface(X, Y, Z, color='b', rstride=5, cstride=5, alpha=0.7)
 
 # Displaying the graph
 plt.show()
+```
 
 
-
+## Code Explanation
 
   
 
@@ -153,6 +154,6 @@ plt.show()
 
 #
 
- ###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the MIT license.](https://github.com/Quantum-Software-Development/README/blob/161b677c5a791f0ca8219b8e934f1cf353d5b85d/LICENSE)
+###### <p align="center"> [Copyright 2024 Quantum Software Development. Code released under the MIT license.](https://github.com/Quantum-Software-Development/README/blob/161b677c5a791f0ca8219b8e934f1cf353d5b85d/LICENSE)
 
 
