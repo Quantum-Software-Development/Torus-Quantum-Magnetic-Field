@@ -130,6 +130,14 @@ This code is typically used in mathematical modeling, computer graphics, and edu
 <br>
 
 ## Step-by-Step explanation of what each part of the code does:
+
+<br>
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+```
   
 
  
