@@ -160,6 +160,16 @@ theta, phi = np.meshgrid(theta, phi)
 R, r = 2, 1  # Set the major radius (R) and minor radius (r)
 ```
 
+<br>
+
+```python
+X = (R + r * np.cos(phi)) * np.cos(theta)
+Y = (R + r * np.cos(phi)) * np.sin(theta)
+Z = r * np.sin(phi)
+```
+
+These lines calculate the 3D coordinates (X, Y, Z) of the torus using the parametric equations.
+
  <br>
 
 Here, theta and phi are arrays of angles used to parameterize the torus. np.linspace creates evenly spaced values between 0 and (2\pi). np.meshgrid generates coordinate matrices from these arrays. R and r are the major and minor radii of the torus, respectively.
