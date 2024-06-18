@@ -90,6 +90,8 @@ This repository also includes code that demonstrates the generation of a Torus i
 
 ## Python Code Example to Generate a Torus
 
+<br>
+
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
