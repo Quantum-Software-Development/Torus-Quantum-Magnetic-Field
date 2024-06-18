@@ -13,18 +13,6 @@ The torus is a doughnut-shaped surface in three-dimensional space, described by 
 
 <br>
 
-$$
-\begin{align*}
-x(\theta, \phi) &= (R + r\cos(\phi))\cos(\theta), \\
-y(\theta, \phi) &= (R + r\cos(\phi))\sin(\theta), \\
-z(\theta, \phi) &= r\sin(\phi),
-\end{align*}
-$$
-
-
-
-
-
 
 $$\color{lightblue} \large \begin{align*}
 x(\theta, \phi) &= (R + r \cos \theta) \cos \phi \\
