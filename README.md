@@ -57,6 +57,9 @@ https://github.com/Quantum-Software-Development/Torus-Quantum-Magnetic-Field/ass
 
 https://github.com/Quantum-Software-Development/Torus-Quantum-Magnetic-Field/assets/113218619/c96bb215-5501-4f9c-9f21-68d8e81c9aa0
 
+https://github.com/Quantum-Software-Development/Torus-Quantum-Magnetic-Field/assets/113218619/1db3de59-cbe4-474b-b7b7-f177302c374c
+
+
 
 
 
