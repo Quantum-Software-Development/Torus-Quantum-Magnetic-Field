@@ -121,6 +121,10 @@ plt.show()
 
 ## Code Explanation
 
+<br>
+
+The code provided is a Python script that generates a three-dimensional plot of a torus using the matplotlib library.
+
   
 
  
