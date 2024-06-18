@@ -28,11 +28,16 @@ where:
 - $\( R \)$ is the distance from the center of the torus' tube to the center of the torus,
 - \( r \) is the radius of the tube itself.
 
+## Quantum Magnetic Field
 
 
 
 
-#
+
+
+
+
+
 
 ### <p align="center"> ﹡𐩔⧖ Creation and dissolution of a torus energy field ﹡ <br>
 <br>
