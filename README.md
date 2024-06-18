@@ -2,6 +2,10 @@
 
 # <p align="center"> 𑁍 Torus - Quantum Magnetic Field<br>
 
+## Introduction
+
+Welcome to the exploration of the Torus and its applications in quantum magnetic fields. This repository is dedicated to understanding the intricate relationship between the toroidal shape and magnetic fields in various contexts, from the microcosmic scale of quantum physics to the macrocosmic scale of astrophysics.
+
 ### <p align="center"> Torus [Mathematically Speaking:](https://github.com/Quantum-Software-Development/README/blob/de863aea73ea56558093652acb707ef038f17217/torus_pgfplots_package.tex)
 
 <br>
