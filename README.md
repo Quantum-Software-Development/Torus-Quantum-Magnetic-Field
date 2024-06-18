@@ -15,8 +15,7 @@ z(\theta, \phi) &= r \sin \theta
 
 <br>
 
-These formulas represents the parametric equations of a [**Torus**](https://github.com/Quantum-Software-Development/README/assets/113218619/74952dc5-d10d-4ba6-8400-1f5b137955ee
-) 
+These formulas represents the parametric equations of a [**Torus**](https://github.com/Quantum-Software-Development/README/assets/113218619/74952dc5-d10d-4ba6-8400-1f5b137955ee), which is a doughnut-shaped surface in three-dimensional space.
 
 #
 
