@@ -64,7 +64,15 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 
  <p align="center">
 <img src="https://github.com/Quantum-Software-Development/README/assets/113218619/e78a928d-1756-4c96-bd38-da05b89743bf"/>
+
 <br>
+
+## Multimedia Content
+
+<br>
+
+Included in this repository is a video file `Creation.and.dissolution.of.a.torus.energy.field.mp4` that provides a visual representation of the concepts discussed.
+
   
 
  
@@ -98,7 +106,6 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 ### <p align="center"> ﹡𐩔⧖ Creation and dissolution of a torus energy field ﹡ <br>
 <br>
  
-https://github.com/Quantum-Software-Development/README/assets/113218619/7d1a572d-f5b3-41c6-8e35-576ea7cd14a0
 
 <br><br>
 
