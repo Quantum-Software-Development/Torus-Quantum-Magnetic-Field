@@ -7,12 +7,17 @@
 
 Welcome to the exploration of the Torus and its applications in quantum magnetic fields. This repository is dedicated to understanding the intricate relationship between the toroidal shape and magnetic fields in various contexts, from the microcosmic scale of quantum physics to the macrocosmic scale of astrophysics.
 
+
+## Important Note
+
+We encourage collaboration and discussion on these fascinating topics. If you have any questions or contributions, please feel free to open an issue or submit a pull request.
+
+
 ## Torus [Mathematically Speaking:](https://github.com/Quantum-Software-Development/README/blob/de863aea73ea56558093652acb707ef038f17217/torus_pgfplots_package.tex)
 
 The torus is a doughnut-shaped surface in three-dimensional space, described by the following parametric equations:
 
 <br>
-
 
 $$\color{lightblue} \large \begin{align*}
 x(\theta, \phi) &= (R + r \cos \theta) \cos \phi \\
