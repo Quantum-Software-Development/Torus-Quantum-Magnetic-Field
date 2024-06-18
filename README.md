@@ -84,7 +84,7 @@ Included in this repository is a video file `Creation.and.dissolution.of.a.torus
 
 This repository also includes code that demonstrates the generation of a Torus in a programming environment. The code is a practical representation of the parametric equations of the Torus and allows users to visualize and interact with the toroidal shape.
 
-### Python Code Example to Generate a Torus
+## Python Code Example to Generate a Torus
 
 ```python
 import numpy as np
