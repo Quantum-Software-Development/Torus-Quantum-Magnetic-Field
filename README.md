@@ -245,11 +245,20 @@ ax.view_init(elev=20, azim=30)
 
 The viewpoint of the plot is set with an elevation of 20 degrees and an azimuth of 30 degrees.
 
+<br>
 
 
+plt.show()
 
-This script is a practical application of mathematical concepts in computer graphics and can be used for educational purposes or in simulations that require a visual representation of a torus. I
-This code will generate a 3D plot of a torus with a color map that transitions between blue and pink, similar to the image you provided. You can adjust the elev and azim parameters in ax.view_init to change the viewpoint. The cmap parameter in plot_surface is set to ‘coolwarm’, which is a colormap that includes shades of blue and pink. f you have any questions or need further clarification, feel free to open a pull request and ask 
+
+Finally, this line displays the plot.
+
+Each part of the code contributes to creating a visual representation of a torus in 3D space, with specific coloring and viewpoint settings
+
+This script is a practical application of mathematical concepts in computer graphics and can be used for educational purposes or in simulations that require a visual representation of a torus.
+
+If you have any questions or need further clarification, feel free to open a pull request and ask 
+
 
 
 
