@@ -46,9 +46,11 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 <p align="center">
 <img src="https://github.com/Quantum-Software-Development/README/assets/113218619/38e289a9-28f7-4fd7-b6db-a25400bdc7be"/>
 
+<br>
+
  . ݁˖ . ݁⋆.˚✮ Σ ✮˚.⋆. ݁₊ ⊹ . ݁˖ . ݁   
 
-<br><br>
+<br>
 
  <p align="center">
 <img src="https://github.com/Quantum-Software-Development/README/assets/113218619/a9a31377-6456-43c8-93d0-45c07fb2e655" />
