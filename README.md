@@ -196,6 +196,8 @@ plt.show()
 
 Finally, plt.show() displays the following plot with the torus on the screen.
 
+![Screenshot 2024-06-17 at 23 09 03](https://github.com/Quantum-Software-Development/Torus-Quantum-Magnetic-Field/assets/113218619/4a323d13-ab3c-4ec4-857d-8fbc6e9dfb31)
+
 This script is a practical application of mathematical concepts in computer graphics and can be used for educational purposes or in simulations that require a visual representation of a torus. If you have any more questions or need further clarification, feel free to ask!
 
 
