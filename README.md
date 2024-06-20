@@ -169,9 +169,16 @@ These lines import the necessary libraries:
 
   <br>
 
-  
+```python
+R = 1  # Major radius
+r = 0.4  # Minor radius
+```
 
-  <br>
+<br>
+
+Here, R and r are defined as the major and minor radii of the torus, respectively.
+
+ <br>
   
 
 ```python
