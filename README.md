@@ -249,9 +249,9 @@ The viewpoint of the plot is set with an elevation of 20 degrees and an azimuth 
 
 <br>
 
-
+```python
 plt.show()
-
+```
 
 Finally, this line displays the plot.
 
@@ -259,7 +259,7 @@ Each part of the code contributes to creating a visual representation of a torus
 
 This script is a practical application of mathematical concepts in computer graphics and can be used for educational purposes or in simulations that require a visual representation of a torus.
 
-If you have any questions or need further clarification, feel free to open a pull request and ask 
+If you have any questions or need further clarification, feel free to open a pull request and ask.
 
 
 
