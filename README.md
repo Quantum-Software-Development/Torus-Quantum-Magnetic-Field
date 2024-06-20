@@ -169,6 +169,11 @@ These lines import the necessary libraries:
 
   <br>
 
+  
+
+  <br>
+  
+
 ```python
 # Defining the parametric equations of the Torus
 theta = np.linspace(0, 2 * np.pi, 100)
