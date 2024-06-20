@@ -212,7 +212,7 @@ ax = fig.add_subplot(111, projection='3d')
 ```
 <br>
 
-The plot_surface function is used to plot the surface of the torus. The color parameter sets the color of the torus, rstride and cstride set the stride used to sample the input data to reduce the number of plotted points, and alpha sets the transparency level.
+A new figure is created, and a 3D subplot is added to this figure.
 
 <br>
 
