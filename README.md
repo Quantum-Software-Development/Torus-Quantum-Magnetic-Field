@@ -217,11 +217,21 @@ A new figure is created, and a 3D subplot is added to this figure.
 <br>
 
 ```python
-# Displaying the graph
-plt.show()
+# Plot the surface with color
+ax.plot_surface(X, Y, Z, rstride=5, cstride=5, cmap='coolwarm', edgecolor='none')
 ```
 
-Finally, plt.show() displays the plot with the torus on the screen.
+This line plots the surface of the torus. rstride and cstride control the row and column stride, cmap sets the color map, and edgecolor is set to ‘none’ to not draw borders around the surface patches.
+
+<br>
+
+```python
+
+```
+
+
+
+
 
 This script is a practical application of mathematical concepts in computer graphics and can be used for educational purposes or in simulations that require a visual representation of a torus. I
 This code will generate a 3D plot of a torus with a color map that transitions between blue and pink, similar to the image you provided. You can adjust the elev and azim parameters in ax.view_init to change the viewpoint. The cmap parameter in plot_surface is set to ‘coolwarm’, which is a colormap that includes shades of blue and pink. f you have any questions or need further clarification, feel free to open a pull request and ask 
