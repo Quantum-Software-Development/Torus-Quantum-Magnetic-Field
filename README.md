@@ -253,7 +253,7 @@ The viewpoint of the plot is set with an elevation of 20 degrees and an azimuth 
 plt.show()
 ```
 
-Finally, this line displays the plot.
+Finally, this line displays the following plot.
 
 ![Screenshot 2024-06-20 at 03 23 19](https://github.com/Quantum-Software-Development/Torus-Quantum-Magnetic-Field/assets/113218619/34dd8a59-a676-4a6d-be59-d938199ced7e)
 
