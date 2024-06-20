@@ -217,7 +217,7 @@ A new figure is created, and a 3D subplot is added to this figure.
 <br>
 
 ```python
-# Plot the surface with color
+# Plot the surface with color mapping
 ax.plot_surface(X, Y, Z, rstride=5, cstride=5, cmap='coolwarm', edgecolor='none')
 ```
 
@@ -226,7 +226,10 @@ This line plots the surface of the torus. rstride and cstride control the row an
 <br>
 
 ```python
-
+# Set the limits of the plot
+ax.set_xlim([-2, 2])
+ax.set_ylim([-2, 2])
+ax.set_zlim([-2, 2])
 ```
 
 
