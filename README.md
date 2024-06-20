@@ -255,6 +255,9 @@ plt.show()
 
 Finally, this line displays the plot.
 
+![Screenshot 2024-06-20 at 03 23 19](https://github.com/Quantum-Software-Development/Torus-Quantum-Magnetic-Field/assets/113218619/34dd8a59-a676-4a6d-be59-d938199ced7e)
+
+
 Each part of the code contributes to creating a visual representation of a torus in 3D space, with specific coloring and viewpoint settings
 
 This script is a practical application of mathematical concepts in computer graphics and can be used for educational purposes or in simulations that require a visual representation of a torus.
