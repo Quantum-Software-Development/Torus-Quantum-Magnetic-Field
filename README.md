@@ -1,6 +1,7 @@
 <br>
 
-# <p align="center"> [𑁍 Torus](https://github.com/Quantum-Software-Development/README/assets/113218619/74952dc5-d10d-4ba6-8400-1f5b137955ee) - Quantum Magnetic Field<br>
+# <p align="center"> [𑁍 Torus](https://github.com/Quantum-Software-Development/Torus-Quantum-Magnetic-Field/assets/113218619/09a5178b-6da8-458c-a30c-fb7d6af3c84c) - Quantum Magnetic Field<br>
+
 <br>
 
 ## Introduction
