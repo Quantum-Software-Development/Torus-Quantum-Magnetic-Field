@@ -194,7 +194,7 @@ The plot_surface function is used to plot the surface of the torus. The color pa
 plt.show()
 ```
 
-Finally, plt.show() displays the plot with the torus on the screen.
+Finally, plt.show() displays the following plot with the torus on the screen.
 
 This script is a practical application of mathematical concepts in computer graphics and can be used for educational purposes or in simulations that require a visual representation of a torus. If you have any more questions or need further clarification, feel free to ask!
 
