@@ -206,8 +206,9 @@ The parametric equations for the torus are defined here, calculating the (X), (Y
 <br>
 
 ```python
-# Plotting the Torus
-ax.plot_surface(X, Y, Z, color='b', rstride=5, cstride=5, alpha=0.7)
+# Create the figure and 3D axis
+fig = plt.figure()
+ax = fig.add_subplot(111, projection='3d')
 ```
 <br>
 
