@@ -238,8 +238,10 @@ The limits of the (x), (y), and (z) axes are set to range from -2 to 2.
 
 <br>
 
+```python
 # Set the viewpoint
 ax.view_init(elev=20, azim=30)
+```
 
 <br>
 
