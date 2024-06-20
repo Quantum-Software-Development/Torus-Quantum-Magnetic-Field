@@ -194,9 +194,9 @@ These lines create two arrays theta and phi with values ranging from 0 to (2\pi)
 <br>
 
 ```python
-X = (R + r * np.cos(phi)) * np.cos(theta)
-Y = (R + r * np.cos(phi)) * np.sin(theta)
-Z = r * np.sin(phi)
+X = (R + r * np.cos(theta)) * np.cos(phi)
+Y = (R + r * np.cos(theta)) * np.sin(phi)
+Z = r * np.sin(theta)
 ```
 
 These lines calculate the 3D coordinates (X, Y, Z) of the torus using the parametric equations.
