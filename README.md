@@ -199,9 +199,11 @@ Y = (R + r * np.cos(theta)) * np.sin(phi)
 Z = r * np.sin(theta)
 ```
 
-These lines calculate the 3D coordinates (X, Y, Z) of the torus using the parametric equations.
+<br>
 
- <br>
+The parametric equations for the torus are defined here, calculating the (X), (Y), and (Z) coordinates for each point on the torus surface.
+
+<br>
 
 ```python
 # Plotting the Torus
