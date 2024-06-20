@@ -82,7 +82,11 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 
 <br>
 
-Included in this repository is a video file `Creation.and.dissolution.of.a.torus.energy.field.mp4` that provides a visual representation of the concepts discussed.
+Included in this repository is the following video file `Creation.and.dissolution.of.a.torus.energy.field.mp4` that provides a visual representation of the concepts discussed.
+
+<br>
+
+https://github.com/Quantum-Software-Development/Torus-Quantum-Magnetic-Field/assets/113218619/e27e9657-2ee2-4b2a-9c1f-50d1d0892470
 
 <br>
 
@@ -264,37 +268,6 @@ Each part of the code contributes to creating a visual representation of a torus
 This script is a practical application of mathematical concepts in computer graphics and can be used for educational purposes or in simulations that require a visual representation of a torus.
 
 If you have any questions or need further clarification, feel free to open a pull request and ask.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #
 
