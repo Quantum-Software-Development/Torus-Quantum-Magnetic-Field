@@ -241,6 +241,9 @@ The limits of the (x), (y), and (z) axes are set to range from -2 to 2.
 # Set the viewpoint
 ax.view_init(elev=20, azim=30)
 
+<br>
+
+The viewpoint of the plot is set with an elevation of 20 degrees and an azimuth of 30 degrees.
 
 
 
