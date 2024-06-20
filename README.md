@@ -255,7 +255,8 @@ plt.show()
 
 Finally, this line displays the following plot.
 
-![Screenshot 2024-06-20 at 03 23 19](https://github.com/Quantum-Software-Development/Torus-Quantum-Magnetic-Field/assets/113218619/34dd8a59-a676-4a6d-be59-d938199ced7e)
+ <p align="center">
+<img src="https://github.com/Quantum-Software-Development/Torus-Quantum-Magnetic-Field/assets/113218619/34dd8a59-a676-4a6d-be59-d938199ced7e "/V
 
 
 Each part of the code contributes to creating a visual representation of a torus in 3D space, with specific coloring and viewpoint settings
