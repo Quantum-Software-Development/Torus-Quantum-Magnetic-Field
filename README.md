@@ -10,6 +10,9 @@ https://github.com/user-attachments/assets/b9f21663-9ae0-4f87-9a0c-e4a39e55160d
 [🔗 Click and try My Quantum Realities App](https://websim.ai/c/CldrTnudCBxsuWKeK)
 
 
+ <p align="center">
+<img src="" />
+
 https://github.com/user-attachments/assets/e7238014-4354-44c0-b4b9-e2a15b5c0fe8
 
 
