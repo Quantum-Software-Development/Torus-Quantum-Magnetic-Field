@@ -3,8 +3,13 @@
 # <p align="center"> [𑁍 Torus](https://github.com/Quantum-Software-Development/Torus-Quantum-Magnetic-Field/assets/113218619/09a5178b-6da8-458c-a30c-fb7d6af3c84c) - Quantum Magnetic Field<br>
 
 
-Demo : Torus - Quantum Realities - Teleporting - Space and Time  👇
+## Demo : Torus - Quantum Realities - Teleporting - Space and Time  👇
 
+<br>
+
+https://github.com/user-attachments/assets/ac93a6f2-c081-4811-b607-fa0c0c663c20
+
+<br>
 
 
 
@@ -16,7 +21,7 @@ Included in this repository is the following video file `Creation.and.dissolutio
 
 <br>
 
-https://github.com/user-attachments/assets/ac93a6f2-c081-4811-b607-fa0c0c663c20
+
 
 <br>
 
