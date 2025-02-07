@@ -3,7 +3,7 @@
 # <p align="center"> [𑁍 Torus](https://github.com/Quantum-Software-Development/Torus-Quantum-Magnetic-Field/assets/113218619/09a5178b-6da8-458c-a30c-fb7d6af3c84c) - Quantum Magnetic Field<br>
 
 
-Demo Video  Quantum Realities - Teletranspoting Space and Time App 👇
+Demo Video  Quantum Realities - Teletranspoting - Space and Time App 👇
 
 https://github.com/user-attachments/assets/b9f21663-9ae0-4f87-9a0c-e4a39e55160d
 
