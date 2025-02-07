@@ -3,13 +3,24 @@
 # <p align="center"> [𑁍 Torus](https://github.com/Quantum-Software-Development/Torus-Quantum-Magnetic-Field/assets/113218619/09a5178b-6da8-458c-a30c-fb7d6af3c84c) - Quantum Magnetic Field<br>
 
 
-Demo Video  Quantum Realities App 👇
+Demo Video  Quantum Realities - Teletranspoting Space and Time App 👇
 
 https://github.com/user-attachments/assets/b9f21663-9ae0-4f87-9a0c-e4a39e55160d
 
 [🔗 Click and try My Quantum Realities App](https://websim.ai/c/CldrTnudCBxsuWKeK)
 
 
+## Multimedia Content
+
+<br>
+
+Included in this repository is the following video file `Creation.and.dissolution.of.a.torus.energy.field.mp4` that provides a visual representation of the concepts discussed.
+
+<br>
+
+https://github.com/Quantum-Software-Development/Torus-Quantum-Magnetic-Field/assets/113218619/e27e9657-2ee2-4b2a-9c1f-50d1d0892470
+
+<br>
 
 
 
@@ -91,17 +102,6 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 
 <br>
 
-## Multimedia Content
-
-<br>
-
-Included in this repository is the following video file `Creation.and.dissolution.of.a.torus.energy.field.mp4` that provides a visual representation of the concepts discussed.
-
-<br>
-
-https://github.com/Quantum-Software-Development/Torus-Quantum-Magnetic-Field/assets/113218619/e27e9657-2ee2-4b2a-9c1f-50d1d0892470
-
-<br>
 
 ## Torus Code
 
