@@ -3,7 +3,7 @@
 # <p align="center"> [𑁍 Torus](https://github.com/Quantum-Software-Development/Torus-Quantum-Magnetic-Field/assets/113218619/09a5178b-6da8-458c-a30c-fb7d6af3c84c) - Quantum Magnetic Field<br>
 
 
-## Demo : Torus - Quantum Realities - Teleporting - Space and Time  👇
+### Demo : Torus - Quantum Realities - Teleporting - Space and Time  👇
 
 <br>
 
@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/ac93a6f2-c081-4811-b607-fa0c0c663c20
 
 
 
-## Multimedia Content
+### Multimedia Content
 
 <br>
 
@@ -30,12 +30,12 @@ Included in this repository is the following video file `Creation.and.dissolutio
 
 <br>
 
-## Introduction
+### Introduction
 
 Welcome to the exploration of the Torus and its applications in quantum magnetic fields. This repository is dedicated to understanding the intricate relationship between the toroidal shape and magnetic fields in various contexts, from the microcosmic scale of quantum physics to the macrocosmic scale of astrophysics.
 
 
-## Important Note
+### Important Note
 
 We encourage collaboration and discussion on these fascinating topics. If you have any questions or contributions, please feel free to open an issue or submit a pull request.
 
