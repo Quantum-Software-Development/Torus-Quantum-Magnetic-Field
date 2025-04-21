@@ -56,7 +56,9 @@ You can visualize the torus as a **donut-shaped surface** where:
 - The whole shape rotates around the z-axis via $$u$$  
 - The circular cross-section rotates via $$v$$
 
-Use these equations in 3D rendering engines, mathematical software, or simulations involving [pToroidal Geometry]().
+<br>
+
+***Use these equations in 3D rendering engines, mathematical software, or simulations involving [Toroidal Geometry]()***.
 
 
 <br>
