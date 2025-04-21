@@ -97,11 +97,17 @@ https://github.com/user-attachments/assets/97c545cc-6a4c-457d-8f78-1d44363a58e6
 https://github.com/user-attachments/assets/49392ec6-7d5a-4675-b0f2-a67f998c8866
 
 <br>
-]():
-## [Introduction
+
+
+## [Introduction]()
 
 Welcome to the exploration of the Torus and its applications in quantum magnetic fields. This repository is dedicated to understanding the intricate relationship between the toroidal shape and magnetic fields in various contexts, from the microcosmic scale of quantum physics to the macrocosmic scale of astrophysics.
 
+<br>
+
+### [***Don't turn around, if the goal is the stars]().*** (Leonardo Da Vinci)
+
+<br.
 
 ## [Important Note]():
 
