@@ -105,9 +105,9 @@ Welcome to the exploration of the Torus and its applications in quantum magnetic
 
 <br>
 
-### [***Don't turn around, if the goal is the stars]().*** (Leonardo Da Vinci)
+### [***Don't turn around, if the goal is the stars***]().(Leonardo Da Vinci)
 
-<br.
+<br>
 
 ## [Important Note]():
 
