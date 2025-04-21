@@ -37,6 +37,11 @@ https://github.com/user-attachments/assets/97c545cc-6a4c-457d-8f78-1d44363a58e6
 
 <br>
 
+#### ➢ Ancient Sacred Geometry from Quatia ⚚
+
+https://github.com/user-attachments/assets/49392ec6-7d5a-4675-b0f2-a67f998c8866
+
+<br>
 
 ## Introduction
 
