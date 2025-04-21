@@ -17,15 +17,21 @@ https://github.com/user-attachments/assets/ac93a6f2-c081-4811-b607-fa0c0c663c20
 
 
 
-## Multimedia Content
+## Multimedia Content that provides a visual representation of the concepts discussed.
 
 <br>
 
-Included in this repository is the following video file `Creation.and.dissolution.of.a.torus.energy.field.mp4` that provides a visual representation of the concepts discussed.
+### ➢ Creation and Dissolution of Torus Energy
 
 <br>
 
 https://github.com/user-attachments/assets/1313ed1d-e8f6-47d1-a47d-43d20824c0a6
+
+<br>
+
+### ➢  Torus Entanglement Magnectic Field - Consciousness - SpaceTime
+
+https://github.com/user-attachments/assets/97c545cc-6a4c-457d-8f78-1d44363a58e6
 
 <br>
 
@@ -73,9 +79,6 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 <p align="center">
 <img src="https://github.com/Quantum-Software-Development/README/assets/113218619/38e289a9-28f7-4fd7-b6db-a25400bdc7be"/>
 
-<br>
-
-https://github.com/user-attachments/assets/97c545cc-6a4c-457d-8f78-1d44363a58e6
 
 <br>
 
