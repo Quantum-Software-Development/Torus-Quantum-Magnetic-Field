@@ -8,47 +8,49 @@
 
 <br>
 
+## Torus [Mathematically Speaking:](https://github.com/Quantum-Software-Development/README/blob/de863aea73ea56558093652acb707ef038f17217/torus_pgfplots_package.tex)
+### The torus is a doughnut-shaped surface in three-dimensional space, described by the following parametric equations:
 
-### 🌀 Parametric Equations of a Torus
+<br>
 
-A torus can be represented parametrically as follows:
+### 🌀 Parametric [Equations of a Torus]():
 
-$$
-\begin{cases}
-x(u, v) = (R + r \cos v) \cos u \\\\
-y(u, v) = (R + r \cos v) \sin u \\\\
-z(u, v) = r \sin v \\\\
-\text{where } u \in [0, 2\pi],\ v \in [0, 2\pi]
-\end{cases}
-$$
+<br>
 
-**Variables:**
+$$\color{DodgerBlue} \large \begin{align*}
+x(\theta, \phi) &= (R + r \cos \theta) \cos \phi \\
+y(\theta, \phi) &= (R + r \cos \theta) \sin \phi \\
+z(\theta, \phi) &= r \sin \theta
+\end{align*}$$
 
-- $R$: major radius — the distance from the center of the torus to the center of the tube  
-- $r$: minor radius — the radius of the tube itself  
-- $u$: angle around the main axis (longitudinal rotation)  
-- $v$: angle around the tube (cross-sectional rotation)
-
-These equations describe a 3D surface by sweeping a circle of radius $$r$$ around an axis located at a distance $$R$$ from the circle's center.
-
-You can visualize the torus as a **donut-shaped surface** where:  
-- The whole shape rotates around the z-axis via $$u$$  
-- The circular cross-section rotates via $$v$$
-
-Use these equations in 3D rendering engines, mathematical software, or simulations involving toroidal geometry.
-
-
-<!--
-$$
+```latex
 \begin{cases}
 x(u,v) = (R + r \cos v) \cos u \\
 y(u,v) = (R + r \cos v) \sin u \\
 z(u,v) = r \sin v \\
 \text{where } u \in [0, 2\pi],\ v \in [0, 2\pi]
 \end{cases}
-$$
--->
+```
 
+<br>
+
+
+### [**Variables:**]():
+
+- $R$: major radius — the distance from the center of the torus to the center of the tube  
+- $r$: minor radius — the radius of the tube itself  
+- $u$: angle around the main axis (longitudinal rotation)  
+- $v$: angle around the tube (cross-sectional rotation)
+
+<br>  
+
+### ***These equations describe a 3D surface by sweeping a circle of radius $$r$$ around an axis located at a distance $$R$$ from the circle's center***.
+
+You can visualize the torus as a **donut-shaped surface** where:  
+- The whole shape rotates around the z-axis via $$u$$  
+- The circular cross-section rotates via $$v$$
+
+Use these equations in 3D rendering engines, mathematical software, or simulations involving [pToroidal Geometry]().
 
 
 <br>
@@ -89,40 +91,21 @@ https://github.com/user-attachments/assets/97c545cc-6a4c-457d-8f78-1d44363a58e6
 https://github.com/user-attachments/assets/49392ec6-7d5a-4675-b0f2-a67f998c8866
 
 <br>
-
-## Introduction
+]():
+## [Introduction
 
 Welcome to the exploration of the Torus and its applications in quantum magnetic fields. This repository is dedicated to understanding the intricate relationship between the toroidal shape and magnetic fields in various contexts, from the microcosmic scale of quantum physics to the macrocosmic scale of astrophysics.
 
 
-## Important Note
+## [Important Note]():
 
 We encourage collaboration and discussion on these fascinating topics. If you have any questions or contributions, please feel free to open an issue or submit a pull request.
 
 
-## Torus [Mathematically Speaking:](https://github.com/Quantum-Software-Development/README/blob/de863aea73ea56558093652acb707ef038f17217/torus_pgfplots_package.tex)
-
-The torus is a doughnut-shaped surface in three-dimensional space, described by the following parametric equations:
-
 <br>
 
-$$\color{DodgerBlue} \large \begin{align*}
-x(\theta, \phi) &= (R + r \cos \theta) \cos \phi \\
-y(\theta, \phi) &= (R + r \cos \theta) \sin \phi \\
-z(\theta, \phi) &= r \sin \theta
-\end{align*}$$
 
-<br>
-
-where:
-
-- $\( \theta \)$ and \( \phi \) are angles that trace the surface of the torus,
-- $\( R \)$ is the distance from the center of the torus' tube to the center of the torus,
-- \( r \) is the radius of the tube itself.
-
-  <br>
-
-## Torus Quantum Magnetic Field
+## [Torus Quantum Magnetic Field]():
 
 The torus is a fundamental shape in the study of quantum magnetic fields. This section delves into the creation and dissolution of a torus energy field, exploring how the toroidal geometry plays a crucial role in magnetic confinement and quantum field theory.
 
