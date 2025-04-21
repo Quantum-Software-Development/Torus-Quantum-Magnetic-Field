@@ -135,7 +135,9 @@ BR>
 
 <br>
 
-- **Human Body Magnetic Quantum Field**: Explore the concept of the human body's magnetic field and its potential toroidal structure.
+### - **Human Body Magnetic Quantum Field**: Explore the concept of the human body's magnetic field and its potential toroidal structure.
+
+<br>
 
   
 <p align="center">
@@ -143,7 +145,9 @@ BR>
 
 <br>
 
-- **Torus - Interlaced Magnetic Field of the Human Body**
+### - **Torus - Interlaced Magnetic Field of the Human Body**
+
+<br>
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/eff26bf3-1238-423c-b893-8c9d39a63482"/>
@@ -153,7 +157,7 @@ BR>
 
   - **Earth Magnetic Field**: Examine the Earth's magnetic field, which can also be modeled as a torus, and its significance in protecting our planet from solar winds.
 
-<br><br>
+<br>
 
  <p align="center">
 <img src="https://github.com/Quantum-Software-Development/README/assets/113218619/e78a928d-1756-4c96-bd38-da05b89743bf"/>
