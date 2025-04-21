@@ -6,10 +6,48 @@
 ####  <p align="center"> [Leonardo da Vinci ]()
 
 
+<br>
 
 
+### 🌀 Parametric Equations of a Torus
+
+A torus can be represented parametrically as follows:
+
+$$
+\begin{cases}
+x(u, v) = (R + r \cos v) \cos u \\\\
+y(u, v) = (R + r \cos v) \sin u \\\\
+z(u, v) = r \sin v \\\\
+\text{where } u \in [0, 2\pi],\ v \in [0, 2\pi]
+\end{cases}
+$$
+
+**Variables:**
+
+- $R$: major radius — the distance from the center of the torus to the center of the tube  
+- $r$: minor radius — the radius of the tube itself  
+- $u$: angle around the main axis (longitudinal rotation)  
+- $v$: angle around the tube (cross-sectional rotation)
+
+These equations describe a 3D surface by sweeping a circle of radius $$r$$ around an axis located at a distance $$R$$ from the circle's center.
+
+You can visualize the torus as a **donut-shaped surface** where:  
+- The whole shape rotates around the z-axis via $$u$$  
+- The circular cross-section rotates via $$v$$
+
+Use these equations in 3D rendering engines, mathematical software, or simulations involving toroidal geometry.
 
 
+<!--
+$$
+\begin{cases}
+x(u,v) = (R + r \cos v) \cos u \\
+y(u,v) = (R + r \cos v) \sin u \\
+z(u,v) = r \sin v \\
+\text{where } u \in [0, 2\pi],\ v \in [0, 2\pi]
+\end{cases}
+$$
+-->
 
 
 
