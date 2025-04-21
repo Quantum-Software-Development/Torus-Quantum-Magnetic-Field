@@ -82,9 +82,13 @@ where:
 - $\( R \)$ is the distance from the center of the torus' tube to the center of the torus,
 - \( r \) is the radius of the tube itself.
 
-## Quantum Magnetic Field
+  <br>
+
+## Torus Quantum Magnetic Field
 
 The torus is a fundamental shape in the study of quantum magnetic fields. This section delves into the creation and dissolution of a torus energy field, exploring how the toroidal geometry plays a crucial role in magnetic confinement and quantum field theory.
+
+BR>
 
 ## Additional Topics
 
@@ -102,8 +106,8 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
  
 <br>
 
- <p align="center">
-<img src="https://github.com/Quantum-Software-Development/README/assets/113218619/a9a31377-6456-43c8-93d0-45c07fb2e655" />
+<p align="center">
+<img src="https://github.com/Quantum-Software-Development/README/assets/113218619/a9a31377-6456-43c8-93d0-45c07fb2e655"/>
 *Lσ Rιɳɠɾαȥιαɱσ Dα Vιɳƈι !*
 
 #
@@ -113,8 +117,15 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 - **Human Body Magnetic Quantum Field**: Explore the concept of the human body's magnetic field and its potential toroidal structure.
 
   
-   <p align="center">
-<img src="https://github.com/Quantum-Software-Development/Torus-Quantum-Magnetic-Field/assets/113218619/c7bc3fc7-d463-4fbe-8d14-55d3461d2ef3" >
+<p align="center">
+<img src="https://github.com/Quantum-Software-Development/Torus-Quantum-Magnetic-Field/assets/113218619/c7bc3fc7-d463-4fbe-8d14-55d3461d2ef3"/>
+
+<br>
+
+- **Torus - Interlaced Magnetic Field of the Human Body**
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/eff26bf3-1238-423c-b893-8c9d39a63482"/>
 
 
 <br>
@@ -129,7 +140,7 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 <br>
 
 
-## Torus Code
+## Torus [Code]():
 
 <br>
 
