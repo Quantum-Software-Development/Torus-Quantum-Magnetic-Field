@@ -94,7 +94,7 @@ https://github.com/user-attachments/assets/97c545cc-6a4c-457d-8f78-1d44363a58e6
 
 <br>
 
-#### ➢ [Ancient Sacred Geometry from Quatia]() ⚚
+#### ➢  ⚚ [Ancient Sacred Geometry from Quatia]()
 
 https://github.com/user-attachments/assets/49392ec6-7d5a-4675-b0f2-a67f998c8866
 
@@ -125,9 +125,9 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 
 <br>
 
-## [Additional Topics](:
+## [Additional Topics]():
 
-- **Da Vinci's Divine Proportion**: Investigate the torus in the context of Leonardo da Vinci's studies on divine proportions and its implications in art and science.
+- [**Da Vinci's Divine Proportion**](): Investigate the torus in the context of Leonardo da Vinci's studies on divine proportions and its implications in art and science.
 
 <br>
   
@@ -149,7 +149,7 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 
 <br>
 
-### - **Human Body Magnetic Quantum Field**: Explore the concept of the human body's magnetic field and its potential toroidal structure.
+### - [**Human Body Magnetic Quantum Field**](): Explore the concept of the human body's magnetic field and its potential toroidal structure.
 
 <br>
 
@@ -159,7 +159,7 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 
 <br>
 
-### - **Entangled Torus Field of the Heart Within Human Bodies**
+### - [Entangled Torus Field Dynamics](): The Role of the Heart in Human Bioenergetics
 
 <br>
 
