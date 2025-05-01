@@ -159,7 +159,7 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 
 <br>
 
-### - **Torus - Interlaced Magnetic Field of the Human Body**
+### - **Torus  Interlaced Magnetic Field of the Human Body**
 
 <br>
 
@@ -169,7 +169,7 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 
 <br>
 
-  - **Earth Magnetic Field**: Examine the Earth's magnetic field, which can also be modeled as a torus, and its significance in protecting our planet from solar winds.
+###  - **Earth Magnetic Field**: Examine the Earth's magnetic field, which can also be modeled as a torus, and its significance in protecting our planet from solar winds.
 
 <br>
 
