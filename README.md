@@ -163,7 +163,7 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 
 <br>
 
-#### [**Cognitive and emotional states modulate the heart’s magnetic field, which can in turn influence the energetic state of people nearby—consciously or not.**]()
+#### **Cognitive and emotional states modulate the heart’s magnetic field, which can in turn influence the energetic state of people nearby—consciously or not.**
 
 <br>
 
@@ -179,7 +179,7 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 
 <br>
 
-###  - **Earth Magnetic Field**: Examine the Earth's magnetic field, which can also be modeled as a torus, and its significance in protecting our planet from solar winds.
+###  - [**Earth Magnetic Field**](): Examine the Earth's magnetic field, which can also be modeled as a torus, and its significance in protecting our planet from solar winds.
 
 <br>
 
@@ -197,8 +197,8 @@ This repository also includes code that demonstrates the generation of a Torus i
 
 <br>
 
-## Python Code Example to Generate a Torus
-
+## [Python Code Example to Generate a Torus
+]():
 <br>
 
 ```python
