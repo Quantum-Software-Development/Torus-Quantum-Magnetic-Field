@@ -163,6 +163,9 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 
 <br>
 
+#### [**Cognitive and emotional states modulate the heart’s magnetic field, which can in turn influence the energetic state of people nearby—consciously or not.**]()
+
+<br>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/eff26bf3-1238-423c-b893-8c9d39a63482" width="800"/>
