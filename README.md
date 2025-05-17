@@ -60,13 +60,17 @@ You can visualize the torus as a **donut-shaped surface** where:
 
 ***Use these equations in 3D rendering engines, mathematical software, or simulations involving [Toroidall Geometry]()***.
 
+<br><
+
+### Space and Time - Vedic Cosmology - Entropy - Yuga's Cicle / SHIFT - From Kali Yuga to Satya Yuga
+
 
 <br>
-
+ 
 
 ### Demo : Torus - Quantum Realities - [Teleporting - Space and Time]()  👇
 
-<br>
+<br>  
 
 https://github.com/user-attachments/assets/ac93a6f2-c081-4811-b607-fa0c0c663c20
 
