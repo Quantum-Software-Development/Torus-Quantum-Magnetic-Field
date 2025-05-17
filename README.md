@@ -72,8 +72,6 @@ https://github.com/user-attachments/assets/0b3673b6-5fff-40b8-b3ba-2bf0e906f1d2
 
 #### ➣ Demo : Torus - Quantum Realities - [Teleporting - Space and Time]()  👇
 
-<br>  
-
 https://github.com/user-attachments/assets/ac93a6f2-c081-4811-b607-fa0c0c663c20
 
 <br>
