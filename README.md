@@ -58,7 +58,7 @@ You can visualize the torus as a **donut-shaped surface** where:
 
 <br>
 
-***Use these equations in 3D rendering engines, mathematical software, or simulations involving [Toroidal Geometry]()***.
+***Use these equations in 3D rendering engines, mathematical software, or simulations involving [Toroidall Geometry]()***.
 
 
 <br>
@@ -94,7 +94,7 @@ https://github.com/user-attachments/assets/97c545cc-6a4c-457d-8f78-1d44363a58e6
 
 <br>
 
-#### ➢  ⚚ [Ancient Sacred Geometry from Quatria]()
+#### ➢  ⚚ [Ancient Sacred Geometry from Quatria](![Image](https://github.com/user-attachments/assets/25f9776f-ddb9-4f26-8890-966db6b58b11))
 
 https://github.com/user-attachments/assets/49392ec6-7d5a-4675-b0f2-a67f998c8866
 
