@@ -90,11 +90,13 @@ https://github.com/user-attachments/assets/ac93a6f2-c081-4811-b607-fa0c0c663c20
 
 https://github.com/user-attachments/assets/1313ed1d-e8f6-47d1-a47d-43d20824c0a6
 
+
+#### ➢➣➢ [Click here]() to watch the full video in high resolution and dive deeper into the study
+
+
 <br>
 
 #### ➢  [Torus Entanglement Magnectic Field - Consciousness - SpaceTime]()
-
-<br>
 
 https://github.com/user-attachments/assets/97c545cc-6a4c-457d-8f78-1d44363a58e6
 
