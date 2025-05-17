@@ -66,7 +66,8 @@ You can visualize the torus as a **donut-shaped surface** where:
 
 https://github.com/user-attachments/assets/0b3673b6-5fff-40b8-b3ba-2bf0e906f1d2
 
-https://youtu.be/C0fer40y5hk?si=euaqW_4iVt2Tbh2h
+#### 🪷 [Click here](https://youtu.be/C0fer40y5hk?si=euaqW_4iVt2Tbh2h) to watch the full video in high resolution and dive deeper into the study.
+
 
 
 <br>
