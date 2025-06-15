@@ -66,7 +66,7 @@ You can visualize the torus as a **donut-shaped surface** where:
 
 <br>
 
-#### ➢ Space and Time - Vedic Cosmology - Entropy - [Yuga's Cicle - From Kali Yuga to Satya Yuga]()
+#### ➢  Space and Time - Vedic Cosmology - Consciousness - Entropy - Yuga's Cicle - [From Kali Yuga to Satya Yuga (SHIFT)]()
 
 https://github.com/user-attachments/assets/0b3673b6-5fff-40b8-b3ba-2bf0e906f1d2
 
