@@ -140,7 +140,10 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 
 <br>
 
-- [**Flower of Life - The Lattice**]() https://github.com/Quantum-Software-Development/README/assets/113218619/74952dc5-d10d-4ba6-8400-1f5b137955ee
+-  ❁ [**Flower of Life - The Lattice**]()
+
+
+https://github.com/Quantum-Software-Development/README/assets/113218619/74952dc5-d10d-4ba6-8400-1f5b137955ee
 
 
 <br>
