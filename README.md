@@ -85,7 +85,7 @@ https://github.com/user-attachments/assets/ac93a6f2-c081-4811-b607-fa0c0c663c20
 
 
 
-## [Multimedia Content]()that provides a visual representation of the concepts discussed.
+## [Multimedia Content]() that provides a visual representation of the concepts discussed.
 
 <br>
 
