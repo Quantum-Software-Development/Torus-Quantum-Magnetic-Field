@@ -89,7 +89,7 @@ https://github.com/user-attachments/assets/ac93a6f2-c081-4811-b607-fa0c0c663c20
 
 <br>
 
-#### ➢ [Creation and Dissolution of Torus Energy]()
+#### ꩜ [Creation and Dissolution of Torus Energy]()
 
 <br>
 
@@ -98,13 +98,13 @@ https://github.com/user-attachments/assets/1313ed1d-e8f6-47d1-a47d-43d20824c0a6
 
 <br>
 
-#### ➢  [Torus Entanglement Magnectic Field - Consciousness - SpaceTime]()
+#### ☯ [Torus Entanglement Magnectic Field - Consciousness - SpaceTime]()
 
 https://github.com/user-attachments/assets/97c545cc-6a4c-457d-8f78-1d44363a58e6
 
 <br>
 
-#### ➢  ⚚☤☤⚚☤ Ancient Sacred Geometry from [Quatria](https://github.com/user-attachments/assets/25f9776f-ddb9-4f26-8890-966db6b58b11)
+####   𓁟 Ancient Sacred Geometry from [Quatria](https://github.com/user-attachments/assets/25f9776f-ddb9-4f26-8890-966db6b58b11)
 
 https://github.com/user-attachments/assets/49392ec6-7d5a-4675-b0f2-a67f998c8866
 
