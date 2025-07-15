@@ -97,13 +97,13 @@ https://github.com/user-attachments/assets/1313ed1d-e8f6-47d1-a47d-43d20824c0a6
 
 <br>
 
-#### ☯ [Torus Entanglement Magnectic Field - Consciousness - SpaceTime]()
+####  ∞ [Torus Entanglement Magnectic Field - Consciousness - SpaceTime]()
 
 https://github.com/user-attachments/assets/97c545cc-6a4c-457d-8f78-1d44363a58e6
 
 <br>
 
-####   𓁟 Ancient Sacred Geometry from [Quatria](https://github.com/user-attachments/assets/25f9776f-ddb9-4f26-8890-966db6b58b11)
+####   🇶 Ancient Sacred Geometry from [Quatria](https://github.com/user-attachments/assets/25f9776f-ddb9-4f26-8890-966db6b58b11)
 
 https://github.com/user-attachments/assets/49392ec6-7d5a-4675-b0f2-a67f998c8866
 
@@ -116,7 +116,7 @@ Welcome to the exploration of the Torus and its applications in quantum magnetic
 
 <br>
 
-### [***Don't turn around, if the goal is the stars***]().(Leonardo Da Vinci)
+###  ✮ [***Don't turn around, if the goal is the stars***]().(Leonardo Da Vinci)
 
 <br>
 
@@ -128,7 +128,7 @@ We encourage collaboration and discussion on these fascinating topics. If you ha
 <br>
 
 
-## [Torus Quantum Magnetic Field]():
+## 🌀 [Torus Quantum Magnetic Field]():
 
 The torus is a fundamental shape in the study of quantum magnetic fields. This section delves into the creation and dissolution of a torus energy field, exploring how the toroidal geometry plays a crucial role in magnetic confinement and quantum field theory.
 
@@ -140,8 +140,7 @@ The torus is a fundamental shape in the study of quantum magnetic fields. This s
 
 <br>
 
-https://github.com/Quantum-Software-Development/README/assets/113218619/74952dc5-d10d-4ba6-8400-1f5b137955ee
-
+- [**Flower of Life - The Lattice**]() https://github.com/Quantum-Software-Development/README/assets/113218619/74952dc5-d10d-4ba6-8400-1f5b137955ee
 
 
 <br>
